@@ -7,3 +7,5 @@ Key concepts covered :-
 3.) forEach()
 4.) eventListeners
 5.) JavaScript CSS Manipulation
+
+https://techiemokhele.github.io/image-gallery/
