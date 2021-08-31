@@ -1,2 +1,2 @@
 # image-gallery
-The main objective of this project is to build a digital clock with date(Day, Month, Year).
+The main functionality of this project is that , when an arrow is clicked, the next image in the array shows up.
