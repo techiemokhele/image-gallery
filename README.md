@@ -9,3 +9,5 @@ Key concepts covered :-
 5.) JavaScript CSS Manipulation
 
 https://techiemokhele.github.io/image-gallery/
+
+![image](https://user-images.githubusercontent.com/67394147/131595351-3ffb6720-d3b6-4736-b30c-cde996b1560b.png)
